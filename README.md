@@ -11,8 +11,6 @@ Feel free to connect with me! I would love to chat if you have any questions or 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 ](https://www.linkedin.com/in/laykevin)
 
-![Kevin's GitHub stats](https://github-readme-stats.vercel.app/api?username=laykevin&theme=algolia&show_icons=true&hide=contribs)
-
 ### Stack
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
